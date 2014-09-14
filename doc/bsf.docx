@@ -1,0 +1,8 @@
+﻿BSF bean script framework
+
+version
+There are 2 types of version:
+one for 2.x, current version is 2.4.0
+and the other is 3.x, The 3.x version uses the API defined as part of JSR-223 (javax.script)
+
+
