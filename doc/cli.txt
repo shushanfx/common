@@ -1,9 +1,0 @@
-CLI for Command line interface
-
-
-
-version
-CLI 1.2 current version
-CLI 1.1
-CLI 1.0
-
